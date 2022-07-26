@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: JDanmuji Blog
+title: JDMJ BLOG
 
 # Your name to show in the footer
-author: JDanmuk
+author: JDanmuji
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -87,8 +87,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
+  twitter: true
+  facebook: true
   linkedin: true
   vk: false
 
